@@ -1,0 +1,13 @@
+{
+  "version":1,
+  "apps":[
+    {"name": "Lethean", "ticker": "lthn", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "WrkzCoin", "ticker": "wrkz", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "Monero", "ticker": "xmr", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "Zano", "ticker": "zano", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "Haven", "ticker": "xhv", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "Turtle", "ticker": "trtl", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+    {"name": "SumoCoin", "ticker": "sumo", "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
+  ]
+  
+}
