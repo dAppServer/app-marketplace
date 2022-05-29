@@ -8,6 +8,6 @@
     {"name": "Haven", "tags": [{"ticker": "xhv"}], "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
     {"name": "Turtle", "tags": [{"ticker": "trtl"}], "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
     {"name": "SumoCoin", "tags": [{"ticker": "sumo"}], "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"},
-  ]
-  
+  ],
+  "dirs":[]
 }
