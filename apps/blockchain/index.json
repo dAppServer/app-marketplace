@@ -1,7 +1,0 @@
-{
-  "version":1,
-  "apps":[
-    {"name": "Lethean", "tags": [{"ticker": "lthn"}], "pkg": "https://raw.githubusercontent.com/letheanVPN/blockchain-iz/main/itw3.json"}
-  ],
-  "dirs":[]
-}
