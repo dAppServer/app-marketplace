@@ -1,2 +1,8 @@
 # app-marketplace
-App Directory, submit a PR to include your Application in the Marketplace
+
+```
+GET http://localhost:36911/apps/list 
+GET http://localhost:36911/apps/marketplace 
+POST http://localhost:36911/apps/install
+POST http://localhost:36911/apps/remove
+```
