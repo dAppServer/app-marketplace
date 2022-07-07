@@ -1,0 +1,7 @@
+{
+  "version":1,
+  "apps":[
+    {"code": "miner-xmrig", "name": "Xmrig Miner", "type": "miner", "pkg": "https://raw.githubusercontent.com/dAppServer/app-miner-xmrig/main/.itw3.json"}
+  ],
+  "dirs":[]
+}
