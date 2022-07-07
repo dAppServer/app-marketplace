@@ -4,6 +4,7 @@
     {"code": "server", "name": "Application Server", "type": "core", "pkg": "https://raw.githubusercontent.com/dAppServer/server/main/.itw3.json"}
   ],
   "dirs":[
-    "blockchain"
+    "blockchain",
+    "miner"
   ]
 }
