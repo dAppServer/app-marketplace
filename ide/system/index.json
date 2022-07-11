@@ -1,0 +1,7 @@
+{
+  "version":1,
+  "apps":[
+    {"code": "app-directory-browser", "name": "File Managment", "type": "app", "pkg": "https://github.com/dAppServer/app-directory-browser/releases/latest/download/default.itw3.json"}
+  ],
+  "dirs":[]
+}
