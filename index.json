@@ -5,6 +5,7 @@
   ],
   "dirs":[
     "blockchain",
-    "miner"
+    "miner",
+    "ide"
   ]
 }
