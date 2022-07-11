@@ -2,6 +2,6 @@
   "version":1,
   "apps":[],
   "dirs":[
-    "system"
+    "ide/system"
   ]
 }
