@@ -1,0 +1,7 @@
+{
+  "version":1,
+  "apps":[
+    {"code": "utils-cyberchef", "name": "CyberChef", "type": "bin", "pkg": "https://raw.githubusercontent.com/dAppServer/app-utils-cyberchef/main/.itw3.json"}
+  ],
+  "dirs":[]
+}
