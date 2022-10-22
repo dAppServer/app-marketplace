@@ -6,6 +6,7 @@
   "dirs":[
     "blockchain",
     "miner",
-    "ide"
+    "ide",
+    "utils"
   ]
 }
