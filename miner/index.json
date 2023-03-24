@@ -1,7 +1,7 @@
 {
   "version":1,
   "apps":[
-    {"code": "miner-xmrig", "name": "Xmrig Miner", "type": "bin", "pkg": "https://raw.githubusercontent.com/letheanVPN/app-miner-xmrig/main/.itw3.json"}
+    {"code": "app-miner-xmrig", "name": "Xmrig Miner", "type": "bin", "pkg": "https://raw.githubusercontent.com/letheanVPN/app-miner-xmrig/main/.itw3.json"}
   ],
   "dirs":[]
 }
